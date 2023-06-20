@@ -23,5 +23,13 @@ body{
     display: flex;
     text-align: center;
     align-items: center;
-    
+    border-bottom: #7adfb0 solid;
+}
+
+.titulo{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: #16098a;
+    color:rgb(197, 132, 52)
 }
